@@ -1,1 +1,1 @@
-console.log("prueba git 4; trabajando con ramas | probando stash");
+console.log("prueba git 4; trabajando con ramas | probando stash | commit desde main");
